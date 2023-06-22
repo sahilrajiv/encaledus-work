@@ -1,0 +1,234 @@
+8_0	C=O	-1	Cannizarro 2, HCHO (oxidation)
+8_0	C=O	-1	Cannizarro 2, HCHO (oxidation)
+8_0	O	-1	Cannizarro 2, HCHO (oxidation)
+8_0	C(O)=O	1	Cannizarro 2, HCHO (oxidation)
+8_0	CO	1	Cannizarro 2, HCHO (oxidation)
+8_1	C=O	-1	Cannizarro 2, HCHO (reduction)
+8_1	C=O	-1	Cannizarro 2, HCHO (reduction)
+8_1	O	-1	Cannizarro 2, HCHO (reduction)
+8_1	C(O)=O	1	Cannizarro 2, HCHO (reduction)
+8_1	CO	1	Cannizarro 2, HCHO (reduction)
+10_0	N	-1	Alkyne Addition, N, HH
+10_0	C#C	-1	Alkyne Addition, N, HH
+10_0	C=CN	1	Alkyne Addition, N, HH
+12_0	C#N	-1	Alkyne Addition, C
+12_0	C#C	-1	Alkyne Addition, C
+12_0	C(C=C)#N	1	Alkyne Addition, C
+14_0	C#N	-1	Nitrile Amination
+14_0	N	-1	Nitrile Amination
+14_0	C(N)=N	1	Nitrile Amination
+16_0	C#N	-1	HCN Addition to Nitriles
+16_0	C#N	-1	HCN Addition to Nitriles
+16_0	C(C=N)#N	1	HCN Addition to Nitriles
+18_0	C#N	-1	Alkene Addition, CN
+18_0	C=CC	-1	Alkene Addition, CN
+18_0	C(C(C)C)#N	1	Alkene Addition, CN
+20_0	C#N	-1	Alkene Addition, CN
+20_0	C=CC	-1	Alkene Addition, CN
+20_0	C(CCC)#N	1	Alkene Addition, CN
+22_0	O	-1	Hydration of C=C(O)
+22_0	C=CC	-1	Hydration of C=C(O)
+22_0	CC(C)O	1	Hydration of C=C(O)
+24_0	O	-1	Hydration of C=C(O)
+24_0	C=CC	-1	Hydration of C=C(O)
+24_0	CCCO	1	Hydration of C=C(O)
+26_0	N	-1	Deamination 3 (inverse)
+26_0	C=CC	-1	Deamination 3 (inverse)
+26_0	CC(C)N	1	Deamination 3 (inverse)
+28_0	N	-1	Deamination 3 (inverse)
+28_0	C=CC	-1	Deamination 3 (inverse)
+28_0	CCCN	1	Deamination 3 (inverse)
+30_0	C=O	-1	Cyanohydrin Formation
+30_0	C#N	-1	Cyanohydrin Formation
+30_0	C(CO)#N	1	Cyanohydrin Formation
+30_1	C=O	-1	Strecker Synthesis Part 1
+30_1	C#N	-1	Strecker Synthesis Part 1
+30_1	C(CO)#N	1	Strecker Synthesis Part 1
+32_0	O	-1	Nitrile Hydrolysis
+32_0	C#N	-1	Nitrile Hydrolysis
+32_0	C(N)=O	1	Nitrile Hydrolysis
+34_0	C#C	-1	Alkyne Addition, N, HC
+34_0	C=CN	-1	Alkyne Addition, N, HC
+34_0	C=CNC=C	1	Alkyne Addition, N, HC
+36_0	C#C	-1	Alkyne Addition, N, HC
+36_0	C(N)=N	-1	Alkyne Addition, N, HC
+36_0	C(NC=C)=N	1	Alkyne Addition, N, HC
+38_0	C#C	-1	Alkyne Addition, N, HC
+38_0	CC(C)N	-1	Alkyne Addition, N, HC
+38_0	C=CNC(C)C	1	Alkyne Addition, N, HC
+40_0	C#C	-1	Alkyne Addition, N, HC
+40_0	CCCN	-1	Alkyne Addition, N, HC
+40_0	C=CNCCC	1	Alkyne Addition, N, HC
+42_0	C=O	-1	Knoevenagel H
+42_0	C(CO)#N	-1	Knoevenagel H
+42_0	C(C(CO)O)#N	1	Knoevenagel H
+43_0	C=CN	-1	Alkyne Addition, N, HH, inverse
+43_0	N	1	Alkyne Addition, N, HH, inverse
+43_0	C#C	1	Alkyne Addition, N, HH, inverse
+44_0	C(C=C)#N	-1	Alkyne Addition, C, inverse
+44_0	C#N	1	Alkyne Addition, C, inverse
+44_0	C#C	1	Alkyne Addition, C, inverse
+46_0	C=CN	-1	Nitrile Amination
+46_0	C(C=C)#N	-1	Nitrile Amination
+46_0	C=CNC(C=C)=N	1	Nitrile Amination
+48_0	C=CN	-1	Nitrile Amination
+48_0	C(C=N)#N	-1	Nitrile Amination
+48_0	C=CNC(C=N)=N	1	Nitrile Amination
+49_0	C#N	-1	Nitrile Amination
+49_0	C=CN	-1	Nitrile Amination
+49_0	C(NC=C)=N	1	Nitrile Amination
+51_0	C(C=C)#N	-1	Nitrile Amination
+51_0	C(N)=N	-1	Nitrile Amination
+51_0	C(NC(C=C)=N)=N	1	Nitrile Amination
+53_0	C(C=C)#N	-1	Nitrile Amination
+53_0	C(N)=O	-1	Nitrile Amination
+53_0	C(NC(C=C)=N)=O	1	Nitrile Amination
+55_0	N	-1	Nitrile Amination
+55_0	C(C=C)#N	-1	Nitrile Amination
+55_0	C=CC(N)=N	1	Nitrile Amination
+57_0	C(N)=N	-1	Nitrile Amination
+57_0	C(C=N)#N	-1	Nitrile Amination
+57_0	C(NC(C=N)=N)=N	1	Nitrile Amination
+59_0	C#N	-1	Nitrile Amination
+59_0	C(N)=N	-1	Nitrile Amination
+59_0	C(NC=N)=N	1	Nitrile Amination
+61_0	C(C=N)#N	-1	Nitrile Amination
+61_0	C(N)=O	-1	Nitrile Amination
+61_0	C(NC(C=N)=N)=O	1	Nitrile Amination
+63_0	N	-1	Nitrile Amination
+63_0	C(C=N)#N	-1	Nitrile Amination
+63_0	C(C(N)=N)=N	1	Nitrile Amination
+65_0	N	-1	Nitrile Amination
+65_0	C(C(C)C)#N	-1	Nitrile Amination
+65_0	C(C(C)C)(N)=N	1	Nitrile Amination
+67_0	N	-1	Nitrile Amination
+67_0	C(CCC)#N	-1	Nitrile Amination
+67_0	C(CCC)(N)=N	1	Nitrile Amination
+69_0	C#N	-1	Nitrile Amination
+69_0	CC(C)N	-1	Nitrile Amination
+69_0	C(NC(C)C)=N	1	Nitrile Amination
+71_0	C#N	-1	Nitrile Amination
+71_0	CCCN	-1	Nitrile Amination
+71_0	C(NCCC)=N	1	Nitrile Amination
+73_0	N	-1	Nitrile Amination
+73_0	C(CO)#N	-1	Nitrile Amination
+73_0	C(CO)(N)=N	1	Nitrile Amination
+75_0	C#N	-1	Nitrile Amination
+75_0	C(N)=O	-1	Nitrile Amination
+75_0	C(NC=N)=O	1	Nitrile Amination
+77_0	C#N	-1	CN addition to iminonitriles
+77_0	C(C=N)#N	-1	CN addition to iminonitriles
+77_0	C(C(C#N)N)#N	1	CN addition to iminonitriles
+78_0	O	-1	Amide Hydrolysis
+78_0	C(N)=O	-1	Amide Hydrolysis
+78_0	N	1	Amide Hydrolysis
+78_0	C(O)=O	1	Amide Hydrolysis
+80_0	C#N	-1	Alkene Addition, CN
+80_0	C=CN	-1	Alkene Addition, CN
+80_0	C(C(C)N)#N	1	Alkene Addition, CN
+82_0	C#N	-1	Alkene Addition, CN
+82_0	C=CN	-1	Alkene Addition, CN
+82_0	C(CCN)#N	1	Alkene Addition, CN
+84_0	C#N	-1	Alkene Addition, CN
+84_0	C(C=C)#N	-1	Alkene Addition, CN
+84_0	C(C(C#N)C)#N	1	Alkene Addition, CN
+86_0	C#N	-1	Alkene Addition, CN
+86_0	C(C=C)#N	-1	Alkene Addition, CN
+86_0	C(CCC#N)#N	1	Alkene Addition, CN
+87_0	CC(C)O	-1	Elimination2
+87_0	O	1	Elimination2
+87_0	C=CC	1	Elimination2
+88_0	CCCO	-1	Elimination2
+88_0	O	1	Elimination2
+88_0	C=CC	1	Elimination2
+90_0	O	-1	Deydration of Amines (inverse)
+90_0	C=CN	-1	Deydration of Amines (inverse)
+90_0	C(CN)O	1	Deydration of Amines (inverse)
+90_1	O	-1	Hydration of C=C(O)
+90_1	C=CN	-1	Hydration of C=C(O)
+90_1	C(CN)O	1	Hydration of C=C(O)
+92_0	O	-1	Hydration of C=C(O)
+92_0	C(C=C)#N	-1	Hydration of C=C(O)
+92_0	C(C(C)O)#N	1	Hydration of C=C(O)
+94_0	O	-1	Hydration of C=C(O)
+94_0	C(C=C)#N	-1	Hydration of C=C(O)
+94_0	C(CCO)#N	1	Hydration of C=C(O)
+96_0	O	-1	Enamine Hydration and Elimination
+96_0	C=CN	-1	Enamine Hydration and Elimination
+96_0	N	1	Enamine Hydration and Elimination
+96_0	C(C)=O	1	Enamine Hydration and Elimination
+98_0	C=CN	-1	Deamination of Vicinal Diamine, (inverse)
+98_0	C=CN	-1	Deamination of Vicinal Diamine, (inverse)
+98_0	C(NCCN)=C	1	Deamination of Vicinal Diamine, (inverse)
+100_0	N	-1	Deamination of Vicinal Diamine, (inverse)
+100_0	C=CN	-1	Deamination of Vicinal Diamine, (inverse)
+100_0	C(CN)N	1	Deamination of Vicinal Diamine, (inverse)
+101_0	CC(C)N	-1	Deamination 3
+101_0	N	1	Deamination 3
+101_0	C=CC	1	Deamination 3
+102_0	CCCN	-1	Deamination 3
+102_0	N	1	Deamination 3
+102_0	C=CC	1	Deamination 3
+104_0	C=CN	-1	Deamination 3 (inverse)
+104_0	C(C=C)#N	-1	Deamination 3 (inverse)
+104_0	C(C(C)NC=C)#N	1	Deamination 3 (inverse)
+106_0	C=CN	-1	Deamination 3 (inverse)
+106_0	C(C=C)#N	-1	Deamination 3 (inverse)
+106_0	C(CCNC=C)#N	1	Deamination 3 (inverse)
+106_1	C=CN	-1	Michael Addition 2,0, 
+106_1	C(C=C)#N	-1	Michael Addition 2,0, 
+106_1	C(CCNC=C)#N	1	Michael Addition 2,0, 
+107_0	C=CC	-1	Deamination 3 (inverse)
+107_0	C=CN	-1	Deamination 3 (inverse)
+107_0	C=CNC(C)C	1	Deamination 3 (inverse)
+108_0	C=CC	-1	Deamination 3 (inverse)
+108_0	C=CN	-1	Deamination 3 (inverse)
+108_0	C=CNCCC	1	Deamination 3 (inverse)
+109_0	N	-1	Deamination 3 (inverse)
+109_0	C(C=C)#N	-1	Deamination 3 (inverse)
+109_0	C(C(C)N)#N	1	Deamination 3 (inverse)
+110_0	N	-1	Deamination 3 (inverse)
+110_0	C(C=C)#N	-1	Deamination 3 (inverse)
+110_0	C(CCN)#N	1	Deamination 3 (inverse)
+110_1	N	-1	Michael Addition 2,0, 
+110_1	C(C=C)#N	-1	Michael Addition 2,0, 
+110_1	C(CCN)#N	1	Michael Addition 2,0, 
+111_0	O	-1	Imine to Carbonyl
+111_0	C(N)=N	-1	Imine to Carbonyl
+111_0	N	1	Imine to Carbonyl
+111_0	C(N)=O	1	Imine to Carbonyl
+111_1	O	-1	Amidine to Amide Hydrolysis
+111_1	C(N)=N	-1	Amidine to Amide Hydrolysis
+111_1	N	1	Amidine to Amide Hydrolysis
+111_1	C(N)=O	1	Amidine to Amide Hydrolysis
+113_0	O	-1	Imine to Carbonyl
+113_0	C(C=N)#N	-1	Imine to Carbonyl
+113_0	N	1	Imine to Carbonyl
+113_0	C(C=O)#N	1	Imine to Carbonyl
+115_0	O	-1	Nitrile Hydrolysis
+115_0	C(C=C)#N	-1	Nitrile Hydrolysis
+115_0	C=CC(N)=O	1	Nitrile Hydrolysis
+117_0	O	-1	Nitrile Hydrolysis
+117_0	C(C=N)#N	-1	Nitrile Hydrolysis
+117_0	C(C=N)(N)=O	1	Nitrile Hydrolysis
+119_0	O	-1	Nitrile Hydrolysis
+119_0	C(C(C)C)#N	-1	Nitrile Hydrolysis
+119_0	C(C(C)C)(N)=O	1	Nitrile Hydrolysis
+121_0	O	-1	Nitrile Hydrolysis
+121_0	C(CCC)#N	-1	Nitrile Hydrolysis
+121_0	C(CCC)(N)=O	1	Nitrile Hydrolysis
+123_0	O	-1	Nitrile Hydrolysis
+123_0	C(CO)#N	-1	Nitrile Hydrolysis
+123_0	C(CO)(N)=O	1	Nitrile Hydrolysis
+125_0	C(C=C)#N	-1	Michael Addition 2,0, 
+125_0	C(N)=N	-1	Michael Addition 2,0, 
+125_0	C(CCNC=N)#N	1	Michael Addition 2,0, 
+127_0	CO	-1	Michael Addition 2,2, 
+127_0	C(C=C)#N	-1	Michael Addition 2,2, 
+127_0	C(CCCO)#N	1	Michael Addition 2,2, 
+129_0	C=CC	-1	Michael Addition 2,2, 
+129_0	C(C=C)#N	-1	Michael Addition 2,2, 
+129_0	C(CCCC=C)#N	1	Michael Addition 2,2, 
+131_0	C(CCC)#N	-1	Michael Addition 2,2, (reverse)
+131_0	C(C=C)#N	1	Michael Addition 2,2, (reverse)
+131_0	C	1	Michael Addition 2,2, (reverse)

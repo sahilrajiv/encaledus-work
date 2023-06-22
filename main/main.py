@@ -6,6 +6,7 @@ import matplotlib.pyplot as plt
 
 include(os.path.join('..', 'rules/all.py'))
 include("mod_to_neo4j_exporter.py")
+include("data_exporter.py")
 
 p = GraphPrinter()
 p.simpleCarbons = True
@@ -159,9 +160,9 @@ def write_gen_output(subset, generation, reaction_name):
 	Create an output.txt while storing SMILES and generation number, so that we can later
 	compare generation by generation for common structures in different reactions
 	"""
-	with open(f"{reaction_name}_output.txt", "a") as f:
+	with open(f"{reaction_name}_output.csv", "a") as f:
 		for graph in subset:
-			f.write(f"G{generation}\t{graph.smiles}\n")
+			f.write(f"{generation}\t{graph.smiles}\n")
 
 
 # Count number of times a rule appears in the edges' attributes.

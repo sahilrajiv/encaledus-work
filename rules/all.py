@@ -1,5 +1,6 @@
+# 
 include("common.py")
-
+# 
 # Note: rules listed here will automatically inverted. If there is a rule without constraints
 # that you want to load without letting it get inverted, include it near the bottom of
 # the file
@@ -31,7 +32,7 @@ if True:
 	include("hcnToKetone.py")
 	include("streckerDegradationDicarbonyl.py")
 	include("schiffTautomerization.py")
-
+# 
 canNotBeInvertedYet = []
 loaded = list(inputRules)
 for a in loaded:
@@ -63,7 +64,7 @@ for a in loaded:
 	except LogicError as e:
 		print(a.name, "can not be inverted yet.")
 		canNotBeInvertedYet.append(a)
-
+# 
 # These rules won't get inverted automatically
 include("ring_hydrol.py") # find a better name?
 include("ester_ammonolysis.py")
@@ -77,7 +78,8 @@ include("elimination.py")
 include("hydration.py")
 include("deamination_addition.py")
 include("cyanohydrin_formation.py")
-include("strecker_synthesis.py")
+include("strecker_parts.py")
+#include("strecker_synthesis.py")
 include("decarboxylation_reactions.py")
 include("mannich.py")
 include("hemiacetalFormation.py")
@@ -91,3 +93,12 @@ include("betaDecarboxylation2.py")
 include("ringClosure.py")
 include("michaelAddition.py")
 include("streckerDegradation.py")
+
+
+include('iron_rules/iron_amino_formation.py')
+include('iron_rules/iron_acidalpha_redn.py')
+include('iron_rules/iron_beta_elimination.py')
+include('iron_rules/iron_aldalphaoxi.py')
+include("iron_rules/iron_alkoxide.py")
+include('iron_rules/iron_alpha_keto_redn.py')
+

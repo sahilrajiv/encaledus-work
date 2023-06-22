@@ -56,4 +56,3 @@ strecker_syn = ruleGMLString("""rule [
     ]
 ]""")
 
-#strecker_syn.print()

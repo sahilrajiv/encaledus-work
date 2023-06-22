@@ -1,0 +1,49 @@
+8_0	C=O	-1	Cannizarro 2, HCHO (oxidation)
+8_0	C=O	-1	Cannizarro 2, HCHO (oxidation)
+8_0	O	-1	Cannizarro 2, HCHO (oxidation)
+8_0	C(O)=O	1	Cannizarro 2, HCHO (oxidation)
+8_0	CO	1	Cannizarro 2, HCHO (oxidation)
+8_1	C=O	-1	Cannizarro 2, HCHO (reduction)
+8_1	C=O	-1	Cannizarro 2, HCHO (reduction)
+8_1	O	-1	Cannizarro 2, HCHO (reduction)
+8_1	C(O)=O	1	Cannizarro 2, HCHO (reduction)
+8_1	CO	1	Cannizarro 2, HCHO (reduction)
+10_0	N	-1	Alkyne Addition, N, HH
+10_0	C#C	-1	Alkyne Addition, N, HH
+10_0	C=CN	1	Alkyne Addition, N, HH
+12_0	C#N	-1	Alkyne Addition, C
+12_0	C#C	-1	Alkyne Addition, C
+12_0	C(C=C)#N	1	Alkyne Addition, C
+14_0	C#N	-1	Nitrile Amination
+14_0	N	-1	Nitrile Amination
+14_0	C(N)=N	1	Nitrile Amination
+16_0	C#N	-1	HCN Addition to Nitriles
+16_0	C#N	-1	HCN Addition to Nitriles
+16_0	C(C=N)#N	1	HCN Addition to Nitriles
+18_0	C#N	-1	Alkene Addition, CN
+18_0	C=CC	-1	Alkene Addition, CN
+18_0	C(C(C)C)#N	1	Alkene Addition, CN
+20_0	C#N	-1	Alkene Addition, CN
+20_0	C=CC	-1	Alkene Addition, CN
+20_0	C(CCC)#N	1	Alkene Addition, CN
+22_0	O	-1	Hydration of C=C(O)
+22_0	C=CC	-1	Hydration of C=C(O)
+22_0	CC(C)O	1	Hydration of C=C(O)
+24_0	O	-1	Hydration of C=C(O)
+24_0	C=CC	-1	Hydration of C=C(O)
+24_0	CCCO	1	Hydration of C=C(O)
+26_0	N	-1	Deamination 3 (inverse)
+26_0	C=CC	-1	Deamination 3 (inverse)
+26_0	CC(C)N	1	Deamination 3 (inverse)
+28_0	N	-1	Deamination 3 (inverse)
+28_0	C=CC	-1	Deamination 3 (inverse)
+28_0	CCCN	1	Deamination 3 (inverse)
+30_0	C=O	-1	Cyanohydrin Formation
+30_0	C#N	-1	Cyanohydrin Formation
+30_0	C(CO)#N	1	Cyanohydrin Formation
+30_1	C=O	-1	Strecker Synthesis Part 1
+30_1	C#N	-1	Strecker Synthesis Part 1
+30_1	C(CO)#N	1	Strecker Synthesis Part 1
+32_0	O	-1	Nitrile Hydrolysis
+32_0	C#N	-1	Nitrile Hydrolysis
+32_0	C(N)=O	1	Nitrile Hydrolysis
